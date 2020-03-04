@@ -1,0 +1,31 @@
+table {
+	color:green
+}
+
+[href="#ideveloper"] {
+	color:orange
+}
+
+li[height="90"] {
+	color:orange
+}
+
+.btn btn-outline-success {
+	color: red;
+}
+
+#ideveloper {
+	font-weight:bold;
+}
+
+.font-size-md {
+	font-size:18px;
+}
+
+.font-size-md.color-red {
+	color:red
+}
+
+.font-size-md.color-gray {
+	color:gray
+}
